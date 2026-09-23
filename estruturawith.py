@@ -2,6 +2,7 @@
 arquivo = open("meuarquivo.txt","w",encoding="utf-8")
 arquivo.write("fala eita tudo certo")
 arquivo.close
+#close
 
 #com with 
 

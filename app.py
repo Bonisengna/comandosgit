@@ -44,3 +44,4 @@ if __name__ == "__main__":
     main()
 
     #bruno
+    #testar com commit com a interface do vscode
